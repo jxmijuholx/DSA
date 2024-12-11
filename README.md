@@ -1,5 +1,6 @@
 # Data Structures and Algorithms
 Metropolia's course Data structures and algorithms with Python
+
 The code is written by me and it's free to use for all!
 
 The course is divided into 10 chapters and a final exam:
